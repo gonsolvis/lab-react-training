@@ -28,6 +28,17 @@
   color: #61dafb;
 }
 
+#individualCard {
+border-radius: 20px;
+width: 25%;
+}
+
+#cardImages {
+  width: 90px;
+  height: 60px;
+
+}
+
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
